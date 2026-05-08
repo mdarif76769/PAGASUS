@@ -14,11 +14,11 @@
 **Android Device Management & Security Audit Tool**
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS-lightgrey?style=for-the-badge)](https://github.com/thakur2309/PAGASUS-PRO)
+[![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS-lightgrey?style=for-the-badge)](https://github.com/mdarif76769/PAGASUS)
 [![ADB](https://img.shields.io/badge/Requires-ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/tools/adb)
-[![Version](https://img.shields.io/badge/Version-1.3-orange?style=for-the-badge)](https://github.com/thakur2309/PAGASUS-PRO/releases)
+[![Version](https://img.shields.io/badge/Version-1.3-orange?style=for-the-badge)](https://github.com/mdarif76769/PAGASUS/releases)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](./LICENSE)
-[![Stars](https://img.shields.io/github/stars/thakur2309/PAGASUS-PRO?style=for-the-badge)](https://github.com/thakur2309/PAGASUS-PRO/stargazers)
+[![Stars](https://img.shields.io/github/stars/mdarif76769/PAGASUS?style=for-the-badge)](https://github.com/mdarif76769/PAGASUS/stargazers)
 
 <br/>
 
@@ -126,7 +126,7 @@
 
 ## Main Menu — Pegasus v1.1
   
-![Pegasus Terminal 1](Screenshot_2025_1002_113702.jpg)
+![Pegasus Terminal 1](Screenshot_2026-05-08-18-20-52-681_com.termux.jpg)
 
 ## Main Menu — Pegasus v1.2
 
