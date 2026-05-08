@@ -119,7 +119,11 @@
 ---
 
 <div align="center">
-  
+
+## SETUP-RUN-ALL 
+
+![Pagasus Terminal run](https://github.com/mdarif76769/PAGASUS/raw/refs/heads/main/Screenrecorder-2026-05-08-18-24-46-822.mp4)
+
 ## Main Menu — Pegasus v1.1
   
 ![Pegasus Terminal 1](Screenshot_2025_1002_113702.jpg)
