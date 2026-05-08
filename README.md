@@ -146,10 +146,10 @@
 
 | Platform | Command |
 |----------|---------|
-| **Ubuntu / Debian / Kali** | `sudo apt install -y python3 adb scrcpy git && git clone https://github.com/mdarif76769/PAGASUS.git && cd PAGASUS && python3 pegasus_v_1.3.py` |
-| **Arch / Manjaro / BlackArch** | `sudo pacman -S python android-tools scrcpy git && git clone https://github.com/mdarif76769/PAGASUS.git && cd PAGASUS && python3 pegasus_v3.py` |
-| **macOS** | `brew install python android-platform-tools scrcpy git && git clone https://github.com/mdarif76769/PAGASUS.git && cd PAGASUS-PRO && python3 pegasus_v3.py` |
-| **Windows** | Install Python + ADB manually (see guide below), then: `git clone https://github.com/mdarif76769/PAGASUS.git && cd PAGASUS-PRO && python pegasus_v3.py` |
+| **Ubuntu / Debian / Kali** | `sudo apt install -y python3 adb scrcpy git && git clone https://github.com/mdarif76769/PAGASUS.git && cd PAGASUS && python3 PAGASUS_v3.py` |
+| **Arch / Manjaro / BlackArch** | `sudo pacman -S python android-tools scrcpy git && git clone https://github.com/mdarif76769/PAGASUS.git && cd PAGASUS && python3 PAGASUS_v3.py` |
+| **macOS** | `brew install python android-platform-tools scrcpy git && git clone https://github.com/mdarif76769/PAGASUS.git && cd PAGASUS-PRO && python3 PAGASUS_v3.py` |
+| **Windows** | Install Python + ADB manually (see guide below), then: `git clone https://github.com/mdarif76769/PAGASUS.git && cd PAGASUS-PRO && python PAGASUS_v3.py` |
 
 ---
 
@@ -188,13 +188,13 @@ cd PAGASUS
 
 **Step 7 — Run Pegasus v3**
 ```bash
-python3 pegasus_v3.py
+python3 PAGASUS_v3.py
 ```
 
 > Want to run an older version?
 > ```bash
-> python3 pegasusV2.py   # Run v1.2
-> python3 pegasus_v1.py   # Run v1.1
+> python3 PAGASUS_V2.py   # Run v2
+> python3 PAGASUS_v1.py   # Run v1
 > ```
 
 ---
@@ -229,13 +229,13 @@ cd PAGASUS
 
 **Step 6 — Run Pegasus v3**
 ```bash
-python3 pegasus_v_3.py
+python3 PAGASUS_V3.py
 ```
 
 > Want to run an older version?
 > ```bash
-> python3 pegasusV-2.py   # Run v1.2
-> python3 pegasus_v1.py   # Run v1.1
+> python3 PAGASUS_V2.py   # Run v2
+> python3 PAGASUS_v1.py   # Run v1
 > ```
 
 ---
@@ -289,13 +289,13 @@ cd PAGASUS
 
 **Step 6 — Run Pegasus v1.3**
 ```cmd
-python pegasus_v_1.3.py
+python PAGASUS_v3.py
 ```
 
 > Want to run an older version?
 > ```cmd
-> python pegasusV-1.2.py   # Run v1.2
-> python pegasus_v1.1.py   # Run v1.1
+> python PAGASUS_V2.py   # Run v2
+> python PAGASUS_v1.py   # Run v1
 > ```
 
 > 💡 **Tip:** Use **Windows Terminal** (free from Microsoft Store) for best color rendering.
@@ -347,13 +347,13 @@ cd PAGASUS
 
 **Step 7 — Run Pegasus v3**
 ```bash
-python3 pegasus_v3.py
+python3 PAGASUS_v3.py
 ```
 
 > Want to run an older version?
 > ```bash
-> python3 pegasusV-2.py   # Run v1.2
-> python3 pegasus_v1.py   # Run v1.1
+> python3 PAGASUS_V2.py   # Run v1.2
+> python3 PAGASUS_v1.py   # Run v1.1
 > ```
 
 ---
@@ -391,14 +391,14 @@ Settings → About Phone
 
 ```bash
 # Linux / macOS — Latest Version
-python3 pegasus_v_1.3.py
+python3 PAGASUS_v3.py
 
 # Windows — Latest Version
-python pegasus_v_1.3.py
+python PAGASUS_v3.py
 
 # Run older versions
-python3 pegasusV-1.2.py    # v1.2
-python3 pegasus_v1.1.py    # v1.1
+python3 PAGASUS_V2.py    # v1.2
+python3 PAGASUS_v1.py    # v1.1
 ```
 
 **Main Menu Preview:**
@@ -465,15 +465,15 @@ All generated files are saved in the **same directory** where you run the script
 
 | File | Version | Run Command |
 |------|---------|-------------|
-| `pegasus_v_1.3.py` | v1.3 *(Latest)* | `python3 pegasus_v_1.3.py` |
-| `pegasusV-1.2.py` | v1.2 | `python3 pegasusV-1.2.py` |
-| `pegasus_v1.1.py` | v1.1 | `python3 pegasus_v1.1.py` |
+| `pagasus_v3.py` | v3 *(Latest)* | `python3 pagasus_v3.py` |
+| `pegasusV-2.py` | v2 | `python3 pegasusV-2.py` |
+| `pegasus_v1.py` | v1 | `python3 pegasus_v1.py` |
 
 ---
 
 ## 📝 Changelog
 
-### v1.3 — Latest Release
+### PAGASUS_v3 — Latest Release
 - ✅ **Advanced Security Tools submenu** added (Option 22) — 10 features:
   - Root Detection (multi-method), APK Permissions Audit, Full Security Audit
   - Debuggable Apps Scanner, Interactive Shell, Network Security Check
@@ -487,7 +487,7 @@ All generated files are saved in the **same directory** where you run the script
 - ✅ **Human-readable storage** — `df -h` for easy reading
 - ✅ **Auto connection logging** — session log written on start and exit
 
-### v1.2 — `pegasusV-1.2.py`
+### v1.2 — `pegasusV-2.py`
 - ✅ Expanded to full 20-option main menu
 - ✅ Power Off and Reboot device remotely
 - ✅ APK Install (sideload) and Uninstall
@@ -500,7 +500,7 @@ All generated files are saved in the **same directory** where you run the script
 - ✅ Remote camera trigger and photo pull
 - ✅ `re` module added for contact parsing
 
-### v1.1 — `pegasus_v1.1.py`
+### v1.1 — `pegasus_v1.py`
 - ✅ Check device info (model, Android version, battery)
 - ✅ USB and Wi-Fi ADB connect and disconnect
 - ✅ Screen recording with custom duration
@@ -548,11 +548,11 @@ SOFTWARE.
 
 ## ⚠️ Disclaimer
 
-> **Pegasus is developed strictly for educational and personal use.**
+> **Pagasus is developed strictly for educational and personal use.**
 >
 > - ✅ Only use this tool on Android devices **you own** or have **explicit written permission** to access.
-> - ❌ Unauthorized access to someone else's device is **illegal** under cybercrime and privacy laws worldwide — including the IT Act (India), CFAA (USA), Computer Misuse Act (UK), and equivalent laws in other countries.
-> - The developer (**thakur2309**) holds **zero liability** for any illegal, unethical, or unauthorized use of this software.
+> - ❌ Unauthorized access to someone else's device is **illegal** under cybercrime and privacy laws worldwide — including the IT Act (bangladesh), CFAA (USA), Computer Misuse Act (UK), and equivalent laws in other countries.
+> - The developer (**mdarif76769**) holds **zero liability** for any illegal, unethical, or unauthorized use of this software.
 > - All data extraction features (contacts, SMS, call logs) are intended exclusively for **personal data backup** and **security research on your own device**.
 
 ---
