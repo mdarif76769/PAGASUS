@@ -124,15 +124,15 @@
 
 ![Pagasus Terminal run](https://github.com/mdarif76769/PAGASUS/raw/refs/heads/main/Screenrecorder-2026-05-08-18-24-46-822.mp4)
 
-## Main Menu — Pegasus v1.1
+## Main Menu — Pegasus v1
   
 ![Pegasus Terminal 1](Screenshot_2026-05-08-18-20-52-681_com.termux.jpg)
 
-## Main Menu — Pegasus v1.2
+## Main Menu — Pegasus v2
 
-![Pegasus Terminal 2](Screenshot_2025_1003_144711.jpg)
+![Pegasus Terminal 2](Screenshot_2026-05-08-18-23-09-364_com.termux.jpg)
 
-## Main Menu — Pegasus v1.3
+## Main Menu — Pegasus v3
 
 ![Pegasus Main Menu](Screenshot%202026-02-23%20223428.png)
 
