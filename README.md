@@ -9,7 +9,7 @@
 ╚═╝     ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚══════╝
 ```
 
-# PEGASUS v1.3
+# PEGASUS v3
 
 **Android Device Management & Security Audit Tool**
 
